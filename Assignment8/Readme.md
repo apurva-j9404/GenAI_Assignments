@@ -1,10 +1,10 @@
-Developed a text-to-speech model using Tacotron.
+Developed a text-to-speech model using Wavenet.
 
 Algorithm Steps:
 Input text
-Convert text → phonemes/embeddings
-Encoder extracts features
-Attention aligns text & audio
-Decoder generates Mel spectrogram
-Vocoder converts spectrogram → waveform
-Output audio file
+Convert text → phoneme sequence
+Generate Mel spectrogram using Tacotron
+Use WaveNet vocoder:
+Predict audio sample step-by-step
+Combine samples → waveform
+Output speech
