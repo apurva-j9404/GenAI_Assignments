@@ -1,2 +1,3 @@
 Use an AI-based tool to generate simple video animations.
-Video displays  visually stunning artistic animation of a person bungee jumping into a vast scenic valley. Use a surreal cinematic style with glowing skies, floating clouds, and dynamic lighting. Show slow-motion jump, rope stretch, and bounce with smooth camera angles. Add atmospheric effects like mist, light rays, and wind. The overall mood should feel adventurous, emotional, and breathtaking.
+
+Video displays  visually stunning artistic animation of a person bungee jumping into a vast scenic valley.
